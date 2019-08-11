@@ -28,3 +28,9 @@ def spiral_traversal(matrix):
 
     return res
     
+mat = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+spiral_traversal(mat)
